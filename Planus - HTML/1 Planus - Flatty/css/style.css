@@ -2541,6 +2541,10 @@ img.leftimg{float:left;padding-right:20px;}
     -webkit-transition-delay: 0s;
 }
 
-.skilltable {
-    margin-left: 40%;
+li {
+    list-style-type: none;
+}
+
+.linkme {
+    color: #579f6a;
 }
