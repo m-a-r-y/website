@@ -23,31 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2284264" vertical-offset="15" max-vertical-offset="4155">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state vertical-scroll-proportion="-1.8367347" vertical-offset="15" max-vertical-offset="4155">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showmewhere.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="showmewhere.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/showmewhere.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.32653" vertical-offset="0" max-vertical-offset="2430">
-              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lockerletters.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/lockerletters.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="2475">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.17766498" vertical-offset="0" max-vertical-offset="2475">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -69,12 +59,12 @@
         <option value="$PROJECT_DIR$/Planus - HTML/2 Planus - Blurry/index.html" />
         <option value="$PROJECT_DIR$/Planus - HTML/2 Planus - Blurry/css/style.css" />
         <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/contact.php" />
-        <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/lockerletters.html" />
         <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/css/style.css" />
-        <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/restapp.html" />
         <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/showme.html" />
-        <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/showmewhere.html" />
         <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/index.html" />
+        <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/lockerletters.html" />
+        <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/restapp.html" />
+        <option value="$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/showmewhere.html" />
       </list>
     </option>
   </component>
@@ -321,7 +311,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32796487" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -581,14 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/lockerletters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="2475">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/showme.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5939086" vertical-offset="69" max-vertical-offset="1005">
@@ -596,25 +578,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8367347" vertical-offset="15" max-vertical-offset="4155">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/lockerletters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4489796" vertical-offset="0" max-vertical-offset="2520">
+          <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/restapp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60876626" vertical-offset="1650" max-vertical-offset="3090">
-          <caret line="135" column="34" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="3135">
+          <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/showmewhere.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.32653" vertical-offset="0" max-vertical-offset="2430">
-          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Planus - HTML/1 Planus - Flatty/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2284264" vertical-offset="15" max-vertical-offset="4155">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.17766498" vertical-offset="0" max-vertical-offset="2475">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
       </provider>
