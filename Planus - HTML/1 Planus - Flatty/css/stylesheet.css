@@ -3,7 +3,12 @@ li {
 }
 
 .linkme {
-    color: #579f6a;
+    //color: #579f6a;
+    color: #D15F59;
+}
+
+#about h1 {
+    color: #D15F59;
 }
 
 .featureimg {
@@ -25,4 +30,8 @@ li {
 
 .inline {
     display: inline;
+}
+
+.hideme {
+    display: none;
 }
