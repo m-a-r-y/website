@@ -17,3 +17,7 @@ li {
 .img-sm {
     width: 25%;
 }
+
+.takeyourpick>.noteCard>.final>img {
+    display: inline;
+}
