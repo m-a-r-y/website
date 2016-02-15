@@ -26,18 +26,20 @@ li {
     width: 50%;
 }
 
+/* ACHIEVERS */
+/* TAKE YOUR PICK */
+
 .takeyourpick>.noteCard>.final>img {
     display: inline;
 }
+
+/* MOBILE ACTION */
+/* DASHBOARD */
 
 .sidebarimg>img {
     margin-left: 25%;
 }
 
-
-.inline {
-    display: inline;
-}
 
 .hideme {
     display: none;
