@@ -25,6 +25,9 @@ li {
 .img-md {
     width: 50%;
 }
+.img-lg {
+    width: 75%;
+}
 
 /* ACHIEVERS */
 /* TAKE YOUR PICK */
@@ -36,7 +39,7 @@ li {
 /* MOBILE ACTION */
 /* DASHBOARD */
 
-.sidebarimg>img {
+.img-center>img {
     margin-left: 25%;
 }
 
