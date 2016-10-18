@@ -12,7 +12,7 @@ $Message = Trim(stripslashes($_POST['contact-message']));
 $validationOK=true;
 if (Trim($EmailFrom)=="") $validationOK=false;
 if (!$validationOK) {
-  print "<h2>There was an error. Please try to send the messake again. </h2>";
+  print "<h2>Opps! Sorry, there was an error. Please try to send the message again. </h2>";
   exit;
 }
 
