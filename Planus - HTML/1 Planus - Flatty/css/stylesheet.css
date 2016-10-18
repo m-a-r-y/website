@@ -4,11 +4,11 @@ li {
 
 .linkme {
     //color: #579f6a;
-    color: #D15F59;
+    color: #45ADA8;
 }
 
 #about h1 {
-    color: #D15F59;
+    color: #45ADA8;
 }
 
 .featureimg {
@@ -46,4 +46,9 @@ li {
 
 .hideme {
     display: none;
+}
+
+.btn-green, .btn-green:focus, .btn-green:active, .btn-green:hover {
+    background-color: #45ADA8 !important;
+    color: #ffffff !important;
 }

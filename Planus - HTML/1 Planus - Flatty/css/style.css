@@ -98,7 +98,7 @@ a:hover {
   font-size: 2em;
   width: 60px;
   height: 60px;
-  border: 2px solid #df5757;
+  border: 2px solid #9DE0AD;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
@@ -106,14 +106,14 @@ a:hover {
   background-clip: padding-box;
   background-color: transparent;
   line-height: 56px;
-  color: #df5757;
+  color: #9DE0AD;
   -webkit-transition: all 0.4s ease-out;
   -moz-transition: all 0.4s ease-out;
   -o-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
 }
 .icon-outline i:hover {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   color: #fff;
   border: 2px solid #fff;
 }
@@ -232,7 +232,7 @@ a:hover {
   background-clip: padding-box;
 }
 .navbar .navbar-nav li a:hover {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   outline: none;
   color: #fff;
 }
@@ -241,7 +241,7 @@ a:hover {
   outline: none;
 }
 .navbar .navbar-nav li:hover {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   color: #fff;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -250,7 +250,7 @@ a:hover {
   background-clip: padding-box;
 }
 .navbar .navbar-nav .active {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   color: #fff;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -318,7 +318,7 @@ a:hover {
   padding: 150px 0 60px;
   margin-top: 0;
   margin-bottom: 0;
-  background: transparent url('../img/header-bg.jpg') repeat top left;
+  background: transparent url('../images/background.png') center center;
   font-size: 1em;
   height: auto;
   overflow: hidden;
@@ -349,7 +349,7 @@ a:hover {
   text-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
 .jumbotron p .btn:hover {
-  color: #579f6a;
+  color: #547980;
 }
 .jumbotron #header-photo {
   opacity: 0;
@@ -367,7 +367,7 @@ a:hover {
 }
 #about h1 {
   margin: 0 0 40px 0;
-  color: #579f6a;
+  color: #547980;
 }
 #about .round-outline {
   border: 2px solid #e4e4e4;
@@ -394,7 +394,7 @@ a:hover {
   background-clip: padding-box;
 }
 #about .round-outline .round-photo-anchor .round-caption-bg {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   height: 90%;
   width: 90%;
   margin: 5%;
@@ -467,38 +467,38 @@ a:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  border: 2px solid #df5757;
+  border: 2px solid #9DE0AD;
   margin-top: 20px;
 }
 #about .social-icons .icon-facebook {
   background: #ffffff url('../img/icon-facebook-red.png') center center no-repeat;
 }
 #about .social-icons .icon-facebook:hover {
-  background: #df5757 url('../img/icon-facebook-white.png') center center no-repeat;
+  background: #9DE0AD url('../img/icon-facebook-white.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter {
   background: #ffffff url('../img/icon-twitter-red.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter:hover {
-  background: #df5757 url('../img/icon-twitter-white.png') center center no-repeat;
+  background: #9DE0AD url('../img/icon-twitter-white.png') center center no-repeat;
 }
 #about .social-icons .icon-skype {
   background: #ffffff url('../img/icon-skype-red.png') center center no-repeat;
 }
 #about .social-icons .icon-skype:hover {
-  background: #df5757 url('../img/icon-skype-white.png') center center no-repeat;
+  background: #9DE0AD url('../img/icon-skype-white.png') center center no-repeat;
 }
 #about .social-icons .icon-dribbble {
   background: #ffffff url('../img/icon-dribbble-red.png') center center no-repeat;
 }
 #about .social-icons .icon-dribbble:hover {
-  background: #df5757 url('../img/icon-dribbble-white.png') center center no-repeat;
+  background: #9DE0AD url('../img/icon-dribbble-white.png') center center no-repeat;
 }
 /* ==========================================================================
    Services Section
    ========================================================================== */
 #services {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   text-align: center;
   padding: 100px 0;
   color: #fff;
@@ -527,15 +527,15 @@ a:hover {
   height: 80px;
   width: 80px;
   display: inline-block;
-  background-color: #df5757;
+  background-color: #9DE0AD;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -webkit-box-shadow: inset 0 0 0 50px #df5757;
-  -moz-box-shadow: inset 0 0 0 50px #df5757;
-  box-shadow: inset 0 0 0 50px #df5757;
+  -webkit-box-shadow: inset 0 0 0 50px #9DE0AD;
+  -moz-box-shadow: inset 0 0 0 50px #9DE0AD;
+  box-shadow: inset 0 0 0 50px #9DE0AD;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -571,16 +571,16 @@ a:hover {
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
 #services .service-column:hover {
-  background-color: #579f6a;
+  background-color: #547980;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 #services .service-column:hover .service-icon {
   background-color: #fff;
-  -webkit-box-shadow: inset 0 0 0 0 #df5757;
-  -moz-box-shadow: inset 0 0 0 0 #df5757;
-  box-shadow: inset 0 0 0 0 #df5757;
+  -webkit-box-shadow: inset 0 0 0 0 #9DE0AD;
+  -moz-box-shadow: inset 0 0 0 0 #9DE0AD;
+  box-shadow: inset 0 0 0 0 #9DE0AD;
   margin-top: 30px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -602,7 +602,7 @@ a:hover {
   line-height: 80px;
   width: 100%;
   height: 100%;
-  color: #579f6a;
+  color: #547980;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -620,7 +620,7 @@ a:hover {
 }
 #portfolio h1 {
   margin: 0 0 40px 0;
-  color: #717171;
+  color: #45ADA8;
 }
 #portfolio .cat-list {
   text-align: center;
@@ -635,7 +635,7 @@ a:hover {
   padding: 10px;
 }
 #portfolio .cat-list .active {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   color: #fff;
 }
 #portfolio .resp-btn {
@@ -697,9 +697,9 @@ a:hover {
   transition: all 0.2s ease-out;
   transition-delay: 0.4s;
   -webkit-transition-delay: 0.4s;
-  -webkit-box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #579f6a;
-  -moz-box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #579f6a;
-  box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #579f6a;
+  -webkit-box-shadow: inset 0 0 0 6px #9DE0AD, inset 0 0 0 0 #547980;
+  -moz-box-shadow: inset 0 0 0 6px #9DE0AD, inset 0 0 0 0 #547980;
+  box-shadow: inset 0 0 0 6px #9DE0AD, inset 0 0 0 0 #547980;
 }
 #portfolio .portfolio-row .portfolio-mix .portfolio-item a .caption-bg::before {
   content: '';
@@ -708,9 +708,9 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  -webkit-box-shadow: inset 0 0 0 0 #579f6a;
-  -moz-box-shadow: inset 0 0 0 0 #579f6a;
-  box-shadow: inset 0 0 0 0 #579f6a;
+  -webkit-box-shadow: inset 0 0 0 0 #547980;
+  -moz-box-shadow: inset 0 0 0 0 #547980;
+  box-shadow: inset 0 0 0 0 #547980;
   -webkit-border-radius: 4px;
   border-radius: 4px;
   -moz-background-clip: padding;
@@ -767,9 +767,9 @@ a:hover {
 }
 #portfolio .portfolio-row .portfolio-mix .portfolio-item a:hover .caption-bg::before {
   content: '';
-  -webkit-box-shadow: inset 0 0 0 160px #579f6a;
-  -moz-box-shadow: inset 0 0 0 160px #579f6a;
-  box-shadow: inset 0 0 0 160px #579f6a;
+  -webkit-box-shadow: inset 0 0 0 160px #547980;
+  -moz-box-shadow: inset 0 0 0 160px #547980;
+  box-shadow: inset 0 0 0 160px #547980;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
@@ -801,12 +801,12 @@ a:hover {
   margin: 0 10px;
 }
 #portfolio .btn-outline-white {
-  color: #df5757;
+  color: #9DE0AD;
   text-transform: none;
-  border: 2px solid #df5757;
+  border: 2px solid #9DE0AD;
 }
 #portfolio .btn-outline-white:hover {
-  background-color: #df5757;
+  background-color: #9DE0AD;
   color: #fff;
 }
 #portfolio p .btn-outline-white {
@@ -905,7 +905,7 @@ a:hover {
 
 }
 .da-slide .da-img .round-outline {
-  border: 2px solid #579f6a;
+  border: 2px solid #547980;
   width: 116px;
   height: 116px;
   position: relative;
@@ -967,7 +967,7 @@ a:hover {
   top: 2px;
   left: 2px;
   border-radius: 50%;
-  background: #df5757;
+  background: #9DE0AD;
 }
 .da-arrows {
   -moz-user-select: none;
@@ -2088,7 +2088,7 @@ a:hover {
    Contact Section
    ========================================================================== */
 #contact {
-  background-color: #579f6a;
+  background-color: #547980;
   text-align: center;
   padding: 100px 0;
   -webkit-box-shadow: inset 0 4px 0 rgba(0, 0, 0, 0.1);
@@ -2116,7 +2116,7 @@ a:hover {
 }
 #contact form input,
 #contact form textarea {
-  background-color: #529563;
+  background-color: #594F4F;
   color: #fff;
   border: none;
   border-bottom: 2px solid #fff;
@@ -2135,7 +2135,8 @@ a:hover {
 #contact form textarea:focus {
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 0 #7aba7b;
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 0 #7aba7b;
-  background-color: #4c8b5d;
+  background-color: #E5FCC2;
+  color: #151515;
 }
 #contact form ::-webkit-input-placeholder {
   color: #FFF;
@@ -2168,13 +2169,13 @@ a:hover {
 }
 #contact form button[type="submit"]:hover {
   background-color: #fff;
-  color: #579f6a;
+  color: #547980;
 }
 /* ==========================================================================
    Footer Section
    ========================================================================== */
 .footer {
-  background-color: #467953;
+  background-color: #253538;
   text-align: center;
 }
 .footer p {
@@ -2204,7 +2205,7 @@ a:hover {
   opacity: 0;
 }
 .scrolltotop:hover {
-  color: #df5757;
+  color: #9DE0AD;
   background-color: #eee;
   -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
@@ -2454,7 +2455,7 @@ img.leftimg{float:left;padding-right:20px;}
 }
 #showcase h1 {
     margin: 0 0 40px 0;
-    color: #579f6a;
+    color: #547980;
 }
 #showcase .round-outline {
     border: 2px solid #e4e4e4;
@@ -2481,7 +2482,7 @@ img.leftimg{float:left;padding-right:20px;}
     background-clip: padding-box;
 }
 #showcase .round-outline .round-photo-anchor .round-caption-bg {
-    background-color: #df5757;
+    background-color: #9DE0AD;
     height: 90%;
     width: 90%;
     margin: 5%;
