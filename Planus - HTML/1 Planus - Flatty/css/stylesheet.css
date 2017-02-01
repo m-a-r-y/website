@@ -3,8 +3,11 @@ li {
 }
 
 .linkme {
-    //color: #579f6a;
+    color: #579f6a;
+}
+.linkme:hover {
     color: #45ADA8;
+
 }
 
 #about h1 {
